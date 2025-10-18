@@ -61,7 +61,7 @@ Our goal was to create a "circuit breaker" for DeFi, powered by real-world data.
 
 We designed this project in three main components:
 
-![A simple diagram showing Agent -> Contracts -> Dashboard](https://i.imgur.com/g0P4oYq.png)
+![DeFi Sentinel Live Demo](./Image.png)
 
 ### 1. The Backend (`DeFi-Sentinel` Folder)
 This is the "brain" of the operation. It's a Python script that is deployed as a serverless function using **GitHub Actions**. Every 6 hours, it:
