@@ -1,0 +1,6 @@
+tweepy
+python-dotenv
+transformers
+torch
+web3
+requests
